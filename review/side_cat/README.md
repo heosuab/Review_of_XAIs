@@ -21,7 +21,7 @@
 ![side_cat_vgg19](../result_media/sidecat_vgg19.PNG)
 
 * VGG-19의 경우 최종 prediction(Egyptian cat)의 확률이 0.970으로 다소 높게 나왔다. 그만큼 XAI의 결과들도 배경의 잡음도 거의 없고, Object의 Edge와 feature들을 매우 뚜렷하고 보여주는 것을 확인할 수 있다. 특히 Guided Back prop + Grad-CAM같은 경우는 사람이 눈으로 확인해도 고양이라고 판별할 수 있을 정도이다.
-* 그냥 Classification CNN의 prediction 결과만 확인해서는 object의 위치 정보는 파악할 수가 없다. 하지만 XAI의 결과를 확인해보니 object의 위치가 어디있는지까지 파악할 수 있음을 알 수 있다. 
+* 그냥 Classification CNN의 prediction 결과만 확인해서는 object의 위치 정보는 파악할 수가 없다. 하지만 XAI의 결과를 확인해보니 object의 위치가 어디있는지까지 파악할 수 있음을 알 수 있다. 실제로 관련 논문을 서베이해보니, XAI기법을 활용한 object detection에 대한 연구가 존재한다는 것을 확인할 수 있었다.
 * XAI 기법들 중에서는 Back Prop의 결과가 가장 안 좋게 나온 것을 볼 수 있다.
 
 <br>
