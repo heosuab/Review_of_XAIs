@@ -4,6 +4,8 @@
 >
 > [2021-2 Open Source Software] Final Project
 
+<br>
+
 
 
 ![results](./media/results.PNG)
@@ -24,7 +26,7 @@
 
 ​	XAI는 현재 분석 결과에 대한 performance를 측정할 수 있는 metrics가 없어서 자유롭게 분석을 하고 정리해보려고 한다. 최대한 다양한 image class들을 포함하고 있는 dataset으로 모델을 학습시킨 후, 선정한 XAI 기법의 결과를 확인하고 **"모델이 왜 그런 prediction을 내었는지"** 한 번 자유로운 분석을 정리해보려고 한다. 
 
-​	분석해본 각각의 고찰 **결과는 Review/ 폴더**에서 확인할 수 있다.
+​	`분석해본 각각의 고찰 결과는 review/ 폴더에서 확인할 수 있다.`
 
 <br>
 
