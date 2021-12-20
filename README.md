@@ -41,7 +41,7 @@
 
 <br>
 
-**[선정한 CNN 모델 목록]**
+**[선정한 CNN(Classification) 모델 목록]**
 
 * VGG-19
 * ResNet18
