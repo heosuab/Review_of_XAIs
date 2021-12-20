@@ -1,6 +1,6 @@
 ### 1. 여러 class의 object가 있을 경우에는?
 
-------
+<br>
 
 > **:mag_right: What's the ​idea?**
 >
