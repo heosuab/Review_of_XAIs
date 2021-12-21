@@ -60,3 +60,8 @@
 - [TCAV (Testing with Concept Activation Vectors)](https://hellopotatoworld.tistory.com/21?category=967465)
 - [LRP (Layer-wise Relevance Propagation)](https://hellopotatoworld.tistory.com/17?category=942192)
 
+<br>
+
+> #### References
+>
+> [1] https://dydeeplearning.tistory.com/10 
