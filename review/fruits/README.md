@@ -1,4 +1,4 @@
-### 1. 여러 class의 object가 있을 경우에는?
+### 3. 여러 class의 object가 있을 경우에는?
 
 <br>
 
@@ -6,7 +6,7 @@
 >
 >​	학습된 여러 class의 여러가지 object가 하나의 이미지 안에 동시에 포함되어 있어도, Classification CNN 모델은 하나의 class만 최종 prediction으로 선정해야 한다. 이럴 경우에 모델 내부에서는 어떤 object를 더 highlight하고, 최종 prediction과 heatmap의 연관성이 어떻게 나타날지 궁금해져서 확인해보았다.
 >
->
+><br>
 >
 >※ 명확한 metrics가 존재하지 않으므로 모든 분석은 주관적인 생각입니다.
 

@@ -47,6 +47,8 @@
 * ResNet18
 * ResNet34
 
+(모든 모델은 ImageNet으로 pretrained되었다.)
+
 <br>
 
 #### 3. 관련 논문 정리했던 자료

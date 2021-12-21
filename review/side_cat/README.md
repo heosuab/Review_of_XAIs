@@ -1,4 +1,4 @@
-### 1. Single object의 위치가 한쪽으로 치우친 경우에는?
+### 2. Single object의 위치가 한쪽으로 치우친 경우에는?
 
 <br>
 
@@ -6,7 +6,7 @@
 >
 >​	single classification CNN 모델들은 translation-invariance라는 특성을 가지고 있기 때문에, object가 이미지 상의 어떤 위치에 존재하든지 같은 prediction을 출력한다. 따라서 CNN모델의 output만으로는 object들의 위치를 알아낼 수 없지만, 모델 내에서 분석하는 XAI의 결과를 확인해보면 위치를 알아낼 수도 있지 않을까? 라는 생각으로 확인해보았다. 
 >
->
+><br>
 >
 >※ 명확한 metrics가 존재하지 않으므로 모든 분석은 주관적인 생각입니다.
 

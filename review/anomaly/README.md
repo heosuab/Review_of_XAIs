@@ -1,4 +1,4 @@
-### 1. Anomaly detection을 위한 XAI?
+### 7. Anomaly detection을 위한 XAI?
 
 <br>
 
@@ -6,7 +6,7 @@
 >
 >​	예전에 XAI 관련 논문을 서치해보다가, XAI를 통해 anomaly detection을 수행할 수도 있다는 연구를 보았던 기억이 있다. 앞서 "색깔"이라는 feature가 모델의 prediction의 중요한 요소였다는 결론에 접목해서, 색깔이 다른 object(anomaly)를 detection할 수 있을지 실험해보았다.
 >
->
+><br>
 >
 >※ 명확한 metrics가 존재하지 않으므로 모든 분석은 주관적인 생각입니다.
 
