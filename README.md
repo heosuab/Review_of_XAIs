@@ -1,9 +1,5 @@
 # Review of XAIs
 
-> 컴퓨터공학과 17101227 이수아
->
-> [2021-2 Open Source Software] Final Project
-
 <br>
 
 
